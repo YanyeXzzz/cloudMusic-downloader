@@ -18,7 +18,7 @@
         </el-table>
         <!-- <footer>Created By Yanye</footer> -->
         <el-card class="card" shadow="hover">
-            <p>Github:</p>
+            <p>Github:<el-button link type="primary">https://github.com/YanyeXzzz/cloudMusic-downloader.git</el-button></p>
             
             <p>Created By Yanye</p>
             
